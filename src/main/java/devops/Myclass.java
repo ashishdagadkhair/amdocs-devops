@@ -10,3 +10,7 @@ public class Myclass {
 	}
 
 }
+//Git : Local Repository
+
+
+//Github : Remote Repository
